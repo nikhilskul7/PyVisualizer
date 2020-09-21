@@ -14,7 +14,7 @@ Project Team Members:
 
 
 Output:
-Co-relation Heatmap
+<h1>Co-relation Heatmap</h1>
 <p align="center">
   <img src="output/img/1.png" width="650" >
   </p>
