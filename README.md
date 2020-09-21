@@ -13,41 +13,43 @@ Project Team Members:
 <li>Pratiksha Sharma - Research Intern at University of Masachussetts Boston | Final Year Bachelor of Data Science at S P Jain School of Global Management, Sydney</li>
 
 
-Output:
+<h1>Output:</h1>
 <h1>Co-relation Heatmap</h1>
 <p align="center">
   <img src="output/img/1.png" width="650" >
   </p>
-  <p align="center">
-Frequency v/s Volume
+<h1>Frequency v/s Volume</h1>
+
+<p align="center">
   <img src="output/img/2.png" width="650" >
 </p>
 
-Pie chart of people who pledge
+<h1>Pie chart of people who pledge</h1>
 <p align="center">
   <img src="output/img/3.png" width="650" >
   </p>
+  <h1>Distribution Of Recency</h1>
+
   <p align="center">
-Distribution Of Recency
   <img src="output/img/4.png" width="650" >
 </p>
 
-Distribution of Frequency
+<h1>Distribution of Frequency</h1>
 <p align="center">
   <img src="output/img/5.png" width="650" >
   </p>
-  Distribution of Time since first donation
+<h1>  Distribution of Time since first donation</h1>
   <p align="center">
 
   <img src="output/img/6.png" width="650" >
 
 </p>
-Distribution of Donation per Annum
+<h1>Distribution of Donation per Annum</h1><h1>
   <p align="center">
 
   <img src="output/img/7.png" width="650" >
 </p>
-Updated Heatmap
+<h1>Updated Heatmap</h1>
 
 <p align="center">
   <img src="output/img/8.png" width="650" >
