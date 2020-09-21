@@ -14,44 +14,42 @@ Project Team Members:
 
 
 Output:
-
+Co-relation Heatmap
 <p align="center">
   <img src="output/img/1.png" width="650" >
   </p>
   <p align="center">
-
+Frequency v/s Volume
   <img src="output/img/2.png" width="650" >
 </p>
 
-
+Pie chart of people who pledge
 <p align="center">
   <img src="output/img/3.png" width="650" >
   </p>
   <p align="center">
-
+Distribution Of Recency
   <img src="output/img/4.png" width="650" >
 </p>
 
-
+Distribution of Frequency
 <p align="center">
   <img src="output/img/5.png" width="650" >
   </p>
+  Distribution of Time since first donation
   <p align="center">
 
   <img src="output/img/6.png" width="650" >
 
 </p>
+Distribution of Donation per Annum
   <p align="center">
 
   <img src="output/img/7.png" width="650" >
 </p>
-
+Updated Heatmap
 
 <p align="center">
   <img src="output/img/8.png" width="650" >
   </p>
-  <p align="center">
-
-  <img src="output/img/pyviz.png" width="650" >
-
-</p>
+ 
