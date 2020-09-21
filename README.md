@@ -11,3 +11,47 @@ Project Team Members:
 <li>Neelima Saini - Program Manager at Intellify | Final Year MBA in Data Science at Institiute of Product Leadership, Bangalore</li>
 <li>Nikhil Kulkarni - Data Scientist and Web Developer | Junior Year BCE at Marathwada Mitra Mandal's College of Engineering, Pune</li>
 <li>Pratiksha Sharma - Research Intern at University of Masachussetts Boston | Final Year Bachelor of Data Science at S P Jain School of Global Management, Sydney</li>
+
+
+Output:
+
+<p align="center">
+  <img src="output/img/1.png" width="650" >
+  </p>
+  <p align="center">
+
+  <img src="output/img/2.png" width="650" >
+</p>
+
+
+<p align="center">
+  <img src="output/img/3.png" width="650" >
+  </p>
+  <p align="center">
+
+  <img src="output/img/4.png" width="650" >
+</p>
+
+
+<p align="center">
+  <img src="output/img/5.png" width="650" >
+  </p>
+  <p align="center">
+
+  <img src="output/img/6.png" width="650" >
+
+</p>
+  <p align="center">
+
+  <img src="output/img/7.png" width="650" >
+</p>
+
+
+<p align="center">
+  <img src="output/img/8.png" width="650" >
+  </p>
+  <p align="center">
+
+  <img src="output/img/pyviz.png" width="650" >
+
+</p>
